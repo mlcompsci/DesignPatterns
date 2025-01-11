@@ -1,4 +1,5 @@
 package Builder;
 
-public class Packing {
+public interface Packing {
+    public String pack();
 }

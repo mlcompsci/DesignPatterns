@@ -1,4 +1,4 @@
-package DesignPatterns;
+package Facade;
 
 public class Rectangle implements Shape {
 
